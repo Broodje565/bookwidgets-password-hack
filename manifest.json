@@ -1,0 +1,23 @@
+{
+    "manifest_version": 3,
+    "name": "Bookwidgets Password Hack",
+    "version": "1.0",
+    "description": "This extension allows access to Bookwidgets secured by passwords, by exploiting a vulnerability in the Bookwidgets' code.",
+    "permissions": [
+        "declarativeNetRequest"
+    ],
+    "host_permissions": [
+        "https://www.bookwidgets.com/*",
+        "https://widgets-eu.bookwidgets.com/*"
+    ],
+    "declarative_net_request": {
+        "rule_resources": [{
+            "id": "ruleset_1",
+            "enabled": true,
+            "path": "rules.json"
+        }]
+    },
+    "icons": {
+    "128": "logo.png"
+    }
+}

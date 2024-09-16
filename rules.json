@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": {
+      "type": "redirect",
+      "redirect": {
+        "url": "https://hexcein-moonsters.github.io/bookwidgets-password-hack/file/Quiz.70665056ad5acb92a77c4ce3ac3003b0.js"
+      }
+    },
+    "condition": {
+      "urlFilter": "*://widgets-eu.bookwidgets.com/*/Quiz.70665056ad5acb92a77c4ce3ac3003b0.js",
+      "resourceTypes": ["script"]
+    }
+  }
+]
