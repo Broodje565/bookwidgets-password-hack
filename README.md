@@ -23,7 +23,7 @@ This extension is intended for educational purposes only. Unauthorized access or
 
 Once the extension is loaded and active, navigate to any BookWidgets page. When prompted for a password, type `ForceLogin` to bypass the security and gain access.
 
-# License
+## License
 
 All Rights Reserved
 
